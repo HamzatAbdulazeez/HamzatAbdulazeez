@@ -2,4 +2,4 @@
 - 👀 FrontEnd Developer
 - 🛠️ Languages and Tools :
 - **Languages and Tools:** 
-HTML . CSS . JavaScript . Vuejs . ReactJs . Bootstrap . Git
+HTML . CSS . JavaScript . Vuejs . ReactJs . Laravel . Bootstrap . Git
